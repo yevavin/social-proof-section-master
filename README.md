@@ -56,4 +56,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - GitHub - [Yeva Vinnitskaya](https://github.com/yevavin)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yevavin)
+- Frontend Mentor - [@yevavin](https://www.frontendmentor.io/profile/yevavin)
